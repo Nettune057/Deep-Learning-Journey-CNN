@@ -1,0 +1,3 @@
+THIS IS A CNN PROJECT IN MINIST DATASET
+
+have a look :3
